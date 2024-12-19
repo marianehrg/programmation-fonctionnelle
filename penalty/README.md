@@ -1,5 +1,7 @@
 # penalty
 
+J'ai fais de mon mieux pour les règles, je ne comprend rien au foot... 
+
 To install dependencies:
 
 ```bash
@@ -11,5 +13,3 @@ To run:
 ```bash
 bun run index.ts
 ```
-
-This project was created using `bun init` in bun v1.1.38. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
