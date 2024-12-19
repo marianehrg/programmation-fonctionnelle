@@ -1,0 +1,12 @@
+{
+  "name": "penalty",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jest": "^29.5.14"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
